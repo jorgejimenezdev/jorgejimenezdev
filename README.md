@@ -78,7 +78,7 @@ I build software that gets used — production systems for universities, travel 
 
 **Radio Ritmo — Mobile App**
 
-Official app for a Panamanian radio station. Live streaming, news feed, and broadcast schedule — deployed on **Android & iOS**.
+Official app for a Panamanian radio station. Live streaming, news feed, and broadcast schedule — deployed on **Android**.
 
 `Flutter` `Dart` `REST API`
 
@@ -113,9 +113,9 @@ Institutional multi-user platform for Universidad Autónoma de Chiriquí. Role-b
 
 **CodeCraft Solutions — Website**
 
-Corporate site for my software startup — clean, fast, deployed on Vercel.
+Corporate site for my software startup — clean, fast.
 
-`HTML` `CSS` `JavaScript` `Bootstrap` `Vercel`
+`HTML` `CSS` `JavaScript` `Bootstrap`
 
 🔗 [codecraftpty.com](https://www.codecraftpty.com)
 
